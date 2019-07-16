@@ -1,0 +1,260 @@
+{
+  "-Lg1gP0zRdpJmFFOGnDZ" : {
+    "accountCategory" : "2-Advt & Publicity",
+    "accountCategoryGroupName" : "Expense",
+    "barCodeNumber" : "12345",
+    "cGst" : "6",
+    "chapterNo" : "95",
+    "commodityName" : "Fishing reels",
+    "costPerUnit" : "250",
+    "createdBy" : "Narendra Reddy",
+    "createdOn" : "29-05-2019 08:27:58",
+    "gstRate" : "12",
+    "hsnCode" : "9507.30.00",
+    "iGst" : "12",
+    "isActive" : "Y",
+    "isConsumableProduct" : "N",
+    "isIncomeProduct" : "N",
+    "productDescription" : "Reading Contents",
+    "productName" : "BOOKS",
+    "productNumber" : 1,
+    "sGst" : "6",
+    "salesPerUnit" : "350",
+    "sch" : "III",
+    "sortTimeStamp" : -1559118644838,
+    "stocks" : {
+      "-Lg1_EyJ_4L4hvktlOwP" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "AMEERPET",
+        "id" : "-Lg1_EyJ_4L4hvktlOwP",
+        "openingStock" : 600,
+        "runningStock" : 640
+      },
+      "-LgRgUeBsupnUw7J_5Or" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "RAJEEV NAGAR",
+        "id" : "-LgRgUeBsupnUw7J_5Or",
+        "openingStock" : 0,
+        "runningStock" : 0
+      }
+    },
+    "unitOfMeasure" : "units",
+    "updatedBy" : "Narendra Reddy",
+    "updatedOn" : "29-05-2019 08:27:58"
+  },
+  "-Lg24NpMqs1Hcyr2rFYn" : {
+    "accountCategory" : "2-Advt & Publicity",
+    "accountCategoryGroupName" : "Expense",
+    "barCodeNumber" : "1234",
+    "cGst" : "14",
+    "chapterNo" : "95",
+    "commodityName" : "Roundabouts, swings, shooting galleries and other fairground amusements; [other than travelling circuses and travelling menageries]",
+    "costPerUnit" : "",
+    "createdBy" : "Narendra Reddy",
+    "createdOn" : "29-05-2019 10:18:51",
+    "gstRate" : "28",
+    "hsnCode" : "9508.00.00",
+    "iGst" : "28",
+    "isActive" : "Y",
+    "isConsumableProduct" : "Y",
+    "isIncomeProduct" : "N",
+    "productDescription" : "Pens",
+    "productName" : "PENS",
+    "productNumber" : 2,
+    "sGst" : "14",
+    "salesPerUnit" : "",
+    "sch" : "V",
+    "sortTimeStamp" : -1559125193575,
+    "stocks" : {
+      "-Lg1_EyJ_4L4hvktlOwP" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "AMEERPET",
+        "id" : "-Lg1_EyJ_4L4hvktlOwP",
+        "openingStock" : 0,
+        "runningStock" : 30
+      },
+      "-LgRgUeBsupnUw7J_5Or" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "RAJEEV NAGAR",
+        "id" : "-LgRgUeBsupnUw7J_5Or",
+        "openingStock" : 0,
+        "runningStock" : 0
+      }
+    },
+    "unitOfMeasure" : "Units",
+    "updatedBy" : "Narendra Reddy",
+    "updatedOn" : "29-05-2019 10:18:51"
+  },
+  "-Lg2EFcfiQuRSdP7ZCiN" : {
+    "accountCategory" : "2-Advt & Publicity",
+    "accountCategoryGroupName" : "Expense",
+    "barCodeNumber" : "123456",
+    "cGst" : "14",
+    "chapterNo" : "95",
+    "commodityName" : "Roundabouts, swings, shooting galleries and other fairground amusements; [other than travelling circuses and travelling menageries]",
+    "costPerUnit" : "",
+    "createdBy" : "Narendra Reddy",
+    "createdOn" : "29-05-2019 11:01:12",
+    "gstRate" : "28",
+    "hsnCode" : "9508.00.00",
+    "iGst" : "28",
+    "isActive" : "Y",
+    "isConsumableProduct" : "N",
+    "isIncomeProduct" : "Y",
+    "productDescription" : "Mouses",
+    "productName" : "MOUSES",
+    "productNumber" : 3,
+    "sGst" : "14",
+    "salesPerUnit" : "",
+    "sch" : "V",
+    "sortTimeStamp" : -1559127781176,
+    "stocks" : {
+      "-Lg1_EyJ_4L4hvktlOwP" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "AMEERPET",
+        "id" : "-Lg1_EyJ_4L4hvktlOwP",
+        "openingStock" : 0,
+        "runningStock" : 0
+      },
+      "-LgRgUeBsupnUw7J_5Or" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "RAJEEV NAGAR",
+        "id" : "-LgRgUeBsupnUw7J_5Or",
+        "openingStock" : 0,
+        "runningStock" : 0
+      }
+    },
+    "unitOfMeasure" : "units",
+    "updatedBy" : "Narendra Reddy",
+    "updatedOn" : "29-05-2019 11:01:12"
+  },
+  "-LhERl9MIR9EK7VQtniS" : {
+    "accountCategory" : "47-Sundry Debtors for Sales",
+    "accountCategoryGroupName" : "Receivable",
+    "barCodeNumber" : "1234",
+    "cGst" : "6",
+    "chapterNo" : "95",
+    "commodityName" : "Other fishing fackles; butterfly nets; hunting or shooting requisites",
+    "costPerUnit" : "70000",
+    "createdBy" : "Narendra Reddy",
+    "createdOn" : "13-06-2019 05:51:34",
+    "gstRate" : "12",
+    "hsnCode" : "9507.90.00",
+    "iGst" : "12",
+    "isActive" : "Y",
+    "isConsumableProduct" : "N",
+    "isIncomeProduct" : "N",
+    "productDescription" : "Laptops",
+    "productName" : "LAPTOPS",
+    "productNumber" : 4,
+    "sGst" : "6",
+    "salesPerUnit" : "75000",
+    "sch" : "III",
+    "sortTimeStamp" : -1560406396387,
+    "stocks" : {
+      "-Lg1_EyJ_4L4hvktlOwP" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "AMEERPET",
+        "id" : "-Lg1_EyJ_4L4hvktlOwP",
+        "openingStock" : 500,
+        "runningStock" : 498
+      },
+      "-LgRgUeBsupnUw7J_5Or" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "RAJEEV NAGAR",
+        "id" : "-LgRgUeBsupnUw7J_5Or",
+        "openingStock" : 500,
+        "runningStock" : 500
+      }
+    },
+    "unitOfMeasure" : "units",
+    "updatedBy" : "Narendra Reddy",
+    "updatedOn" : "13-06-2019 05:51:34"
+  },
+  "-LhESRctG99rCWEPbx8g" : {
+    "accountCategory" : "37-Sales",
+    "accountCategoryGroupName" : "Income",
+    "barCodeNumber" : "123",
+    "cGst" : "6",
+    "chapterNo" : "95",
+    "commodityName" : "Fish-hooks",
+    "costPerUnit" : "15000",
+    "createdBy" : "Narendra Reddy",
+    "createdOn" : "13-06-2019 05:51:34",
+    "gstRate" : "12",
+    "hsnCode" : "9507.20.00",
+    "iGst" : "12",
+    "isActive" : "Y",
+    "isConsumableProduct" : "N",
+    "isIncomeProduct" : "N",
+    "productDescription" : "Mobiles",
+    "productName" : "MOBILES",
+    "productNumber" : 5,
+    "sGst" : "6",
+    "salesPerUnit" : "18000",
+    "sch" : "III",
+    "sortTimeStamp" : -1560406574469,
+    "stocks" : {
+      "-Lg1_EyJ_4L4hvktlOwP" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "AMEERPET",
+        "id" : "-Lg1_EyJ_4L4hvktlOwP",
+        "openingStock" : 700,
+        "runningStock" : 698
+      },
+      "-LgRgUeBsupnUw7J_5Or" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "RAJEEV NAGAR",
+        "id" : "-LgRgUeBsupnUw7J_5Or",
+        "openingStock" : 700,
+        "runningStock" : 700
+      }
+    },
+    "unitOfMeasure" : "units",
+    "updatedBy" : "Narendra Reddy",
+    "updatedOn" : "13-06-2019 05:51:34"
+  },
+  "-LhESqK7lKBNbDdjB81H" : {
+    "accountCategory" : "16-GST Payable",
+    "accountCategoryGroupName" : "Liability",
+    "barCodeNumber" : "123",
+    "cGst" : "14",
+    "chapterNo" : "95",
+    "commodityName" : "Roundabouts, swings, shooting galleries and other fairground amusements; [other than travelling circuses and travelling menageries]",
+    "costPerUnit" : "4000",
+    "createdBy" : "Narendra Reddy",
+    "createdOn" : "13-06-2019 05:51:34",
+    "gstRate" : "28",
+    "hsnCode" : "9508.00.00",
+    "iGst" : "28",
+    "isActive" : "Y",
+    "isConsumableProduct" : "N",
+    "isIncomeProduct" : "N",
+    "productDescription" : "Cycles",
+    "productName" : "CYCLES",
+    "productNumber" : 6,
+    "sGst" : "14",
+    "salesPerUnit" : "4500",
+    "sch" : "V",
+    "sortTimeStamp" : -1560406679701,
+    "stocks" : {
+      "-Lg1_EyJ_4L4hvktlOwP" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "AMEERPET",
+        "id" : "-Lg1_EyJ_4L4hvktlOwP",
+        "openingStock" : 600,
+        "runningStock" : 577
+      },
+      "-LgRgUeBsupnUw7J_5Or" : {
+        "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+        "branchName" : "RAJEEV NAGAR",
+        "id" : "-LgRgUeBsupnUw7J_5Or",
+        "openingStock" : 600,
+        "runningStock" : 600
+      }
+    },
+    "unitOfMeasure" : "units",
+    "updatedBy" : "Narendra Reddy",
+    "updatedOn" : "13-06-2019 05:51:34"
+  }
+}

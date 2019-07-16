@@ -1,0 +1,28 @@
+{
+  "-Lg1_EyJ_4L4hvktlOwP" : {
+    "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+    "branchName" : "AMEERPET",
+    "code" : "AMP",
+    "gstinNumber" : "",
+    "isActive" : "Y",
+    "latitude" : "",
+    "locationNumber" : 1,
+    "longitude" : "",
+    "sortTimeStamp" : -1559116770634,
+    "stateName" : "Telangana",
+    "stateTin" : "36"
+  },
+  "-LgRgUeBsupnUw7J_5Or" : {
+    "address" : "Ganesh Nagar,\nChintal\nHyderabad",
+    "branchName" : "RAJEEV NAGAR",
+    "code" : "RJV",
+    "gstinNumber" : "123456789012345",
+    "isActive" : "Y",
+    "latitude" : "",
+    "locationNumber" : 2,
+    "longitude" : "",
+    "sortTimeStamp" : -1559554878467,
+    "stateName" : "Telangana",
+    "stateTin" : "36"
+  }
+}
